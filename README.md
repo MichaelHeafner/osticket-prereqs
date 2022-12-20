@@ -154,3 +154,4 @@ Continue Setting up OsTicket in the browser
 
 </p>
 <br />
+!! Congratulations, if all steps were followed correctly you should have successfully installed and setup osTicket !!
