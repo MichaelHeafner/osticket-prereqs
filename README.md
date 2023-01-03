@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/sCN7hmw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/i95EjYV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The first step should be to enable IIS by going into your control panel, which can be accessed by tapping the Windows key then typing control panel, click programs, then programs and features, and finally click on "Turn Windows features on or off" and check off the box beside "Internet Information Services" then click "OK".
