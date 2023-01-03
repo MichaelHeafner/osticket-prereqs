@@ -144,7 +144,7 @@ Download and Install HeidiSQL (download from web)
 <br />
 
 <p>
-<img src="https://i.imgur.com/wppjKAx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ubXvVal.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Continue Setting up OsTicket in the browser
